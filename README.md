@@ -17,3 +17,13 @@ Unlock comprehensive insights from the realm of the Indian Premier League (IPL) 
 ## 📡 The Backend: IPL Analytics API
 
 At the heart of this project lies the IPL analytics API, a powerful engine that processes massive datasets to fetch you the insights you see on the dashboard. This custom-built API is a testament to the depth and breadth of IPL data that we wanted to make accessible to fans.
+
+## 💡 How to Use:
+
+- **Select a Category:** Choose between Team, Player, Season, or a combination to start your analysis.
+  
+- **Apply Filters:** Customize your view using available filters. Want to know how a player performed in a particular season? Or how two teams fared against each other over the years? Just set your criteria!
+  
+- **Visualize:** View statistics in well-crafted visuals. Bar graphs, pie charts, tables – we've got them all!
+  
+- **Iterate:** Go back, adjust, and dive into another insightful journey!
