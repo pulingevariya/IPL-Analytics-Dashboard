@@ -27,3 +27,7 @@ At the heart of this project lies the IPL analytics API, a powerful engine that 
 - **Visualize:** View statistics in well-crafted visuals. Bar graphs, pie charts, tables – we've got them all!
   
 - **Iterate:** Go back, adjust, and dive into another insightful journey!
+
+## 👨‍💻 Dashboard Demo:
+
+https://github.com/pulingevariya/IPL-Analytics-Dashboard/assets/113835862/74890c06-a88e-41ce-b2e5-f12abbc1816f
